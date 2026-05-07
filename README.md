@@ -180,8 +180,6 @@ restrict_staff_tags/
 ├── restrict_staff_tags.php
 ├── install.php
 ├── uninstall.php
-├── assets/
-│   └── restrict_staff_tags.js
 └── README.md
 ```
 
